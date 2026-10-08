@@ -1,4 +1,4 @@
-# Geog4/6300: Midterm data spring
+# Geog4/6300: Midterm data sprint
 
 This is the repo for the final research sprint in Geog4/6300. It's your chance to practice the skills you've been learning related to spatial and statistical analysis and to get experience creating and implementing your own analysis workflow.
 
